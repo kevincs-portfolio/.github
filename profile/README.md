@@ -1,6 +1,6 @@
 # 🤖 Kevin's Mechatronics Engineering Portfolio
 
-Welcome to my comprehensive technical portfolio showcasing expertise in **Mechatronics Engineering** through **AI/ML**, **Robotics**, **CAD Design**, and **Automation Systems**.
+Welcome to my comprehensive technical portfolio showcasing expertise in **Mechatronics Engineering** through **AI/ML**, **Data Analytics**,**Robotics**, **CAD Design**, and **Automation Systems**.
 
 ## 🎯 About This Organization
 
